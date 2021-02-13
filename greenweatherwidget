@@ -1,0 +1,4 @@
+<a class="weatherwidget-io" href="https://forecast7.com/en/41d52n72d08/norwich/" data-label_1="NORWICH" data-label_2="WEATHER" data-theme="original" data-basecolor="#cbe5c2" data-textcolor="#648362" data-highcolor="#ff8d97" data-lowcolor="#9096eb" data-suncolor="#ffdd88" data-cloudcolor="#f9f1f1" data-raincolor="#95aaff" >NORWICH WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
